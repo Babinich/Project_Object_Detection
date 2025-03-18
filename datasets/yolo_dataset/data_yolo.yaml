@@ -1,0 +1,5 @@
+train: C:\Users\Marceli Morawski\PvProject\Project_Object_Detection\datasets\yolo_dataset\train
+val: C:\Users\Marceli Morawski\PvProject\Project_Object_Detection\datasets\yolo_dataset\val
+
+nc: 2
+names: ["drink_can", "glass_bottle"]
